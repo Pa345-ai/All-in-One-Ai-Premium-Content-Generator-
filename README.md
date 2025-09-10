@@ -32,6 +32,7 @@ Assets/Screenshot_20250910-132146.png
 
 **DOCX Export Example**  
 Assets/Clothing_and_apparel (1) (1).docx
+Assets/Screenshot_20250910-132438.png
 
 ---
 
