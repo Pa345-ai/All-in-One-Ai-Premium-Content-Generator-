@@ -31,7 +31,7 @@ Assets/Screenshot_20250910-132146.png
 ![Image Generation](https://via.placeholder.com/300x180.png?text=AI+Image+Generation)
 
 **DOCX Export Example**  
-![DOCX Export](https://via.placeholder.com/300x180.png?text=DOCX+Export)
+Assets/Clothing_and_apparel (1) (1).docx
 
 ---
 
