@@ -27,8 +27,8 @@ Assets/Screenshot_20250910-132030.png
 Assets/Screenshot_20250910-132127.png
 Assets/Screenshot_20250910-132146.png
 
-**AI Image Generation**  
-![Image Generation](https://via.placeholder.com/300x180.png?text=AI+Image+Generation)
+**AI Image Generation** 
+**AI Image Generation (Placeholder)** (assets/placeholder_ai_image.png)
 
 **DOCX Export Example**  
 Assets/Clothing_and_apparel (1) (1).docx
