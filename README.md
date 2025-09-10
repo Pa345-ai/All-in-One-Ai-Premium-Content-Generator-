@@ -21,7 +21,7 @@ Generate **high-quality AI content** in **50+ languages**, create images, export
 ## 🖼️ Demo Screenshots
 
 **Dashboard Overview**  
-![Dashboard Preview](https://via.placeholder.com/300x180.png?text=Dashboard+Preview)
+Assets/Screenshot_20250910-132030.png
 
 **Content Generation**  
 ![Content Generation](https://via.placeholder.com/300x180.png?text=Content+Generation)
